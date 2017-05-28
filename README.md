@@ -16,6 +16,18 @@ If you're up for the challenge, please fork this repository and complete all of 
 Tip: GitHub pages (https://pages.github.com/) and Netlify (https://www.netlify.com/) are amazing free services to showcase your work live. Put up a link in your repository's README or in the description.
 
 Note: All of the specifics mentioned like React, Webpack, LESS etc... are completely optional, so feel free to submit just about anything that you've done to improve on the existing HackerNews, see it just as a way to get to know each other 
-technically.
+technically.e usd
 
 Happy hacking!
+
+Front End Challenge:
+------------------------------------------------------------------------------------------------------------
+I ahve replicated the Hacker News site and deployed in the following link. I have also committed to gitHub all the files used to develop the website. Only the search feature i have not implemented , since the API for the search is not available from the documentation.
+
+http://database-administrator-tom-32638.netlify.com/
+
+I have used Bootstrap and Angular js to design the website. Kindly review and provide your valuable feedback.
+
+
+
+
